@@ -99,10 +99,7 @@ Ubah format data untuk memicu error atau melewati filter keamanan.
 * [PortSwigger: API Testing Academy](https://portswigger.net/web-security/api-testing)
 * [OWASP API Security Top 10 2023](https://owasp.org/www-project-api-security/)
 
----
-*Terakhir diperbarui: 25 April 2026*
-
----
+### *Terakhir diperbarui: 25 April 2026*
 
 ### 💡 Tips Tambahan
 
